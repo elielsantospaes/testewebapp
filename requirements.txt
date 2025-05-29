@@ -2,3 +2,4 @@ botbuilder-integration-aiohttp>=4.14.0
 tika
 plotly
 pandas
+numpy
